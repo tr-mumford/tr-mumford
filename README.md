@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey hey, take a look around👋
 
 <!--
 **tr-mumford/tr-mumford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
